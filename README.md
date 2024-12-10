@@ -1,14 +1,16 @@
 # Carrasquillo_Ho_Independent
 
-This repository includes data, methods and inital analysis for some work completed as a pilot study for my master's thesis work. 
+This repository includes data, methods and inital analysis for a study testing hydrogen peroxide as a treatment for the invasive green alga, _Avrainvillea lacerata_ at Kualoa Beach Park, Oahu, Hawai`i. This is part of a larger project to observe impacts of hydrogen peroxide on _Avrainvillea lacerata_ and _Avrainvillea erecta_ in the Main Hawaiian Islands. 
 
-***Contents:*** There are (how many folders), and a README.md file. 
+
+
+***Contents:*** There are three, and a README.md file. 
 
 ***Folders:***
 
 **[Data/Clean Data](INSERT LINK HERE)**
 
-**[Coding Script](INSERT LINK)**
+**[Script](INSERT LINK)**
 
 **[Output](INSERT LINK)**
 
