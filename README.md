@@ -8,9 +8,6 @@ This repository includes data, methods and inital analysis for a study testing h
 
 ***Folders:***
 
-**[Data/Clean Data](INSERT LINK HERE)**
-
-**[Script](INSERT LINK)**
-
-**[Output](INSERT LINK)**
-
+Data
+Output
+Script
